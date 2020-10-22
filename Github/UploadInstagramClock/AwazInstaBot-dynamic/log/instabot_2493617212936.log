@@ -1,0 +1,14 @@
+2020-05-24 02:26:37,984 - INFO - Instabot Started
+2020-05-24 02:26:38,923 - INFO - PRE-LOGIN FLOW!... 
+2020-05-24 02:26:41,831 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 02:26:41,883 - INFO - LOGIN FLOW! Just logged-in: True
+2020-05-24 02:27:18,096 - INFO - Photo '(100).jpg' is uploaded.
+2020-05-24 02:57:38,208 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=b25abaf1-d92a-4120-88e5-e00223f13fc3
+- uuid=3c3a991a-86d3-45a0-a0c9-2834b9b4fdda
+- client_session_id=7d8a9d8e-882a-470b-8c28-ddcdee0525ab
+- device_id=android-6debd32806349233
+2020-05-24 02:57:38,211 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 02:57:43,755 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 02:58:05,795 - INFO - Photo '(101).jpg' is uploaded.

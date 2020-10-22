@@ -1,0 +1,16 @@
+2020-10-22 15:38:18,568 - INFO - Instabot Started
+2020-10-22 15:38:18,574 - INFO - PRE-LOGIN FLOW!... 
+2020-10-22 15:38:21,765 - INFO - Logged-in successfully as 'chaiflix.official'!
+2020-10-22 15:38:21,766 - INFO - LOGIN FLOW! Just logged-in: True
+2020-10-22 15:38:48,071 - INFO - Photo '(83).jpg' is uploaded.
+2020-10-22 15:39:30,166 - INFO - Recovery from chaiflix.official_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=0e896e37-df1c-45b9-aa2d-e13520278ea1
+- uuid=5724484a-320a-447d-92cb-9613b829c4ed
+- client_session_id=d80c31f4-907f-497d-8f07-0fc21cc535ae
+- device_id=android-af7f7386b19d3813
+2020-10-22 15:39:30,167 - INFO - LOGIN FLOW! Just logged-in: False
+2020-10-22 15:39:31,295 - INFO - Logged-in successfully as 'chaiflix.official'!
+2020-10-22 15:39:52,037 - INFO - Photo '(84).jpg' is uploaded.
+2020-10-22 15:40:33,237 - INFO - Total requests: 27
+2020-10-22 15:40:33,241 - INFO - Total requests: 27

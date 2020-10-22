@@ -1,0 +1,91 @@
+2020-06-16 13:15:44,809 - INFO - Instabot Started
+2020-06-16 13:15:44,873 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=371519f1-9da0-4bc2-81c1-6939824f8c3e
+- uuid=1b0fa0dd-aa06-45d0-8e44-6d32d1d82508
+- client_session_id=4be765fd-52d0-443a-bf55-65dc1f3ede23
+- device_id=android-6debd32806349233
+2020-06-16 13:15:44,875 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-16 13:15:50,237 - INFO - Logged-in successfully as 'awazcafe'!
+2020-06-16 13:16:11,413 - INFO - Photo '(180).jpg.REMOVE_ME' is uploaded.
+2020-06-16 17:39:39,210 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=371519f1-9da0-4bc2-81c1-6939824f8c3e
+- uuid=1b0fa0dd-aa06-45d0-8e44-6d32d1d82508
+- client_session_id=21465328-5e0d-44a3-be52-1c96b8b90bea
+- device_id=android-6debd32806349233
+2020-06-16 17:39:39,210 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-16 17:39:48,117 - INFO - Logged-in successfully as 'awazcafe'!
+2020-06-16 17:40:09,473 - INFO - Photo '(181).jpg' is uploaded.
+2020-06-16 21:40:31,722 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=371519f1-9da0-4bc2-81c1-6939824f8c3e
+- uuid=1b0fa0dd-aa06-45d0-8e44-6d32d1d82508
+- client_session_id=0dd4d508-c984-46f7-a8cc-4e19d773444f
+- device_id=android-6debd32806349233
+2020-06-16 21:40:31,823 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-16 21:40:48,098 - INFO - Logged-in successfully as 'awazcafe'!
+2020-06-16 21:41:13,084 - INFO - Photo '(182).jpg' is uploaded.
+2020-06-17 04:34:32,217 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=371519f1-9da0-4bc2-81c1-6939824f8c3e
+- uuid=1b0fa0dd-aa06-45d0-8e44-6d32d1d82508
+- client_session_id=ddeb0a23-c856-431d-ba44-7a677f1d9c59
+- device_id=android-6debd32806349233
+2020-06-17 04:34:32,217 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-17 04:34:39,848 - INFO - Logged-in successfully as 'awazcafe'!
+2020-06-17 04:34:59,896 - INFO - Photo '(183).jpg' is uploaded.
+2020-06-17 08:35:21,124 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=371519f1-9da0-4bc2-81c1-6939824f8c3e
+- uuid=1b0fa0dd-aa06-45d0-8e44-6d32d1d82508
+- client_session_id=ec47ff51-d1c1-4d69-9f79-c6fb6fb6f19d
+- device_id=android-6debd32806349233
+2020-06-17 08:35:21,129 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-17 08:35:27,001 - INFO - Logged-in successfully as 'awazcafe'!
+2020-06-17 08:35:48,657 - INFO - Photo '(184).jpg' is uploaded.
+2020-06-17 12:36:08,724 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=371519f1-9da0-4bc2-81c1-6939824f8c3e
+- uuid=1b0fa0dd-aa06-45d0-8e44-6d32d1d82508
+- client_session_id=e056805c-88eb-4dbe-ae8a-7d68aa973682
+- device_id=android-6debd32806349233
+2020-06-17 12:36:08,724 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-17 12:36:21,607 - INFO - Logged-in successfully as 'awazcafe'!
+2020-06-17 12:36:41,721 - INFO - Photo '(185).jpg' is uploaded.
+2020-06-17 16:37:02,219 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=371519f1-9da0-4bc2-81c1-6939824f8c3e
+- uuid=1b0fa0dd-aa06-45d0-8e44-6d32d1d82508
+- client_session_id=13f8e400-bfaf-4869-8757-77b54058607b
+- device_id=android-6debd32806349233
+2020-06-17 16:37:02,257 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-17 16:37:09,130 - INFO - Logged-in successfully as 'awazcafe'!
+2020-06-17 16:37:31,013 - INFO - Photo '(186).jpg' is uploaded.
+2020-06-17 20:37:51,125 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=371519f1-9da0-4bc2-81c1-6939824f8c3e
+- uuid=1b0fa0dd-aa06-45d0-8e44-6d32d1d82508
+- client_session_id=e2547511-d500-4072-b501-cc6c8216cdc5
+- device_id=android-6debd32806349233
+2020-06-17 20:37:51,126 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-17 20:37:58,410 - INFO - Logged-in successfully as 'awazcafe'!
+2020-06-17 20:38:20,863 - INFO - Photo '(187).jpg' is uploaded.
+2020-06-18 00:38:40,921 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=371519f1-9da0-4bc2-81c1-6939824f8c3e
+- uuid=1b0fa0dd-aa06-45d0-8e44-6d32d1d82508
+- client_session_id=0c6084ae-dd91-49f7-b5d7-dcee5cde76ee
+- device_id=android-6debd32806349233
+2020-06-18 00:38:40,921 - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-18 00:38:47,334 - INFO - Logged-in successfully as 'awazcafe'!
+2020-06-18 00:39:08,817 - INFO - Photo '(188).jpg' is uploaded.
+2020-06-18 15:22:32,774 - INFO - Total requests: 115
+2020-06-18 15:22:32,780 - INFO - Total requests: 115
+2020-06-18 15:22:32,782 - INFO - Total requests: 115
+2020-06-18 15:22:32,783 - INFO - Total requests: 115
+2020-06-18 15:22:32,785 - INFO - Total requests: 115
+2020-06-18 15:22:32,790 - INFO - Total requests: 115
+2020-06-18 15:22:32,792 - INFO - Total requests: 115
+2020-06-18 15:22:32,793 - INFO - Total requests: 115
+2020-06-18 15:22:32,796 - INFO - Total requests: 115

@@ -1,0 +1,10 @@
+2020-10-12 01:29:00,575 - INFO - Instabot Started
+2020-10-12 01:29:01,861 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=e27aee3b-9298-4d59-9315-e00b149392e9
+- uuid=29d3a3e9-b2cc-4840-b195-9f2223a20e30
+- client_session_id=b1012efe-a1f4-40a7-9337-8231bce444d6
+- device_id=android-6debd32806349233
+2020-10-12 01:29:01,862 - INFO - LOGIN FLOW! Just logged-in: False
+2020-10-12 01:29:19,668 - INFO - Logged-in successfully as 'awazcafe'!
+2020-10-12 01:29:42,298 - INFO - Photo '(189).jpg.REMOVE_ME.REMOVE_ME.REMOVE_ME' is uploaded.

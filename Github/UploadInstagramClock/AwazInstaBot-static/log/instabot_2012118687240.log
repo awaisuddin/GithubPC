@@ -1,0 +1,6 @@
+2020-10-22 15:36:26,911 - INFO - Instabot Started
+2020-10-22 15:36:26,977 - INFO - PRE-LOGIN FLOW!... 
+2020-10-22 15:36:31,313 - ERROR - Request returns 400 error!
+2020-10-22 15:36:31,316 - INFO - Instagram's error message: The password you entered is incorrect. Please try again.
+2020-10-22 15:36:31,319 - INFO - Error type: bad_password
+2020-10-22 15:36:31,322 - INFO - Username or password is incorrect.

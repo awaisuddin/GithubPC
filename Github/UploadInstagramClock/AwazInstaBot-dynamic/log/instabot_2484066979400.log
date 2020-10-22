@@ -1,0 +1,7 @@
+2020-05-23 12:17:37,965 - INFO - Instabot Started
+2020-05-23 12:17:37,981 - INFO - PRE-LOGIN FLOW!... 
+2020-05-23 12:17:41,669 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-23 12:17:41,671 - INFO - LOGIN FLOW! Just logged-in: True
+2020-05-23 12:17:56,584 - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-05-23 12:17:56,585 - INFO - Photo '1 (111).jpg' is not uploaded.
+2020-05-23 12:32:01,462 - INFO - Total requests: 21

@@ -1,0 +1,399 @@
+2020-05-24 10:35:02,395 - INFO - Instabot Started
+2020-05-24 10:35:02,461 - INFO - PRE-LOGIN FLOW!... 
+2020-05-24 10:35:05,564 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 10:35:05,567 - INFO - LOGIN FLOW! Just logged-in: True
+2020-05-24 10:35:34,749 - INFO - Photo '(102).jpg' is uploaded.
+2020-05-24 11:05:55,033 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=824a328e-9fdb-4303-9cb1-7aa9c2282dfd
+- device_id=android-6debd32806349233
+2020-05-24 11:05:55,035 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 11:06:09,863 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 11:06:33,585 - INFO - Photo '(103).jpg' is uploaded.
+2020-05-24 11:36:53,704 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=311b5e48-a23a-421b-8234-667e4e86bfbe
+- device_id=android-6debd32806349233
+2020-05-24 11:36:53,705 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 11:36:59,485 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 11:37:20,946 - INFO - Photo '(104).jpg' is uploaded.
+2020-05-24 12:07:41,023 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=ea5eaef3-cb1b-47c8-96a6-b87f3add5041
+- device_id=android-6debd32806349233
+2020-05-24 12:07:41,024 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 12:07:47,034 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 12:08:09,544 - INFO - Photo '(105).jpg' is uploaded.
+2020-05-24 12:38:29,609 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=5ff5b42e-55fe-4206-8ddd-7a667bf33e4e
+- device_id=android-6debd32806349233
+2020-05-24 12:38:29,610 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 12:38:35,763 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 12:38:55,823 - INFO - Photo '(106).jpg' is uploaded.
+2020-05-24 13:09:15,873 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=230da51e-332e-4ff3-a832-0b45243d6ff0
+- device_id=android-6debd32806349233
+2020-05-24 13:09:15,874 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 13:09:21,624 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 13:09:42,688 - INFO - Photo '(107).jpg' is uploaded.
+2020-05-24 13:40:02,787 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=ea91f2cd-e507-4798-b33f-bc4f2b7983e7
+- device_id=android-6debd32806349233
+2020-05-24 13:40:02,788 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 13:40:08,249 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 13:40:28,145 - INFO - Photo '(108).jpg' is uploaded.
+2020-05-24 14:10:48,195 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=b74814b6-249e-4e15-a174-d27395b97f94
+- device_id=android-6debd32806349233
+2020-05-24 14:10:48,196 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 14:10:53,941 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 14:11:14,408 - INFO - Photo '(109).jpg' is uploaded.
+2020-05-24 14:41:34,450 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=f28db41b-ddec-4453-a6e5-a0a4f4bbb67f
+- device_id=android-6debd32806349233
+2020-05-24 14:41:34,452 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 14:41:40,819 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 14:42:02,557 - INFO - Photo '(11).jpg' is uploaded.
+2020-05-24 15:12:22,590 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=62845517-156e-4964-9eeb-23b2beab82cc
+- device_id=android-6debd32806349233
+2020-05-24 15:12:22,592 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 15:12:27,758 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 15:12:49,978 - INFO - Photo '(110).jpg' is uploaded.
+2020-05-24 15:43:10,048 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=81aac6e0-544a-40fe-9880-10bdac334886
+- device_id=android-6debd32806349233
+2020-05-24 15:43:10,049 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 15:43:15,464 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 15:43:35,263 - INFO - Photo '(111).jpg' is uploaded.
+2020-05-24 16:13:55,297 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=3067a37c-6e5d-426c-987b-483b5baffac6
+- device_id=android-6debd32806349233
+2020-05-24 16:13:55,298 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 16:14:00,609 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 16:14:22,763 - INFO - Photo '(112).jpg' is uploaded.
+2020-05-24 16:44:42,806 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=6d248eb0-8682-42c0-8fcd-0c60bbf978d1
+- device_id=android-6debd32806349233
+2020-05-24 16:44:42,808 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 16:44:48,781 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 16:45:11,234 - INFO - Photo '(113).jpg' is uploaded.
+2020-05-24 17:15:31,340 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=4b740805-c506-4325-bf21-75aa55d7daf2
+- device_id=android-6debd32806349233
+2020-05-24 17:15:31,341 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 17:15:36,653 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 17:15:58,341 - INFO - Photo '(114).jpg' is uploaded.
+2020-05-24 17:46:18,396 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=da5e7e12-327c-4f93-ab42-b6f9a3bf72d5
+- device_id=android-6debd32806349233
+2020-05-24 17:46:18,398 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 17:46:24,154 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 17:46:45,689 - INFO - Photo '(115).jpg' is uploaded.
+2020-05-24 18:17:06,977 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=e58afe43-bb7d-4ee8-b5c1-0e1e4928803f
+- device_id=android-6debd32806349233
+2020-05-24 18:17:06,979 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 18:17:16,317 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 18:17:37,204 - INFO - Photo '(116).jpg' is uploaded.
+2020-05-24 18:47:57,351 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=5eba53f9-60c9-4e28-95a1-55ef6d64072a
+- device_id=android-6debd32806349233
+2020-05-24 18:47:57,353 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 18:48:03,580 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 18:48:27,054 - INFO - Photo '(117).jpg' is uploaded.
+2020-05-24 19:18:47,215 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=f9aee6e0-9b7c-4114-b983-fb76d1d07902
+- device_id=android-6debd32806349233
+2020-05-24 19:18:47,217 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 19:18:52,902 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 19:19:12,720 - INFO - Photo '(118).jpg' is uploaded.
+2020-05-24 19:49:32,786 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=e8ef9c8a-f41d-470c-9d88-d1005da5152c
+- device_id=android-6debd32806349233
+2020-05-24 19:49:32,786 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 19:49:38,109 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 19:49:59,171 - INFO - Photo '(119).jpg' is uploaded.
+2020-05-24 20:20:19,216 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=2bd956f9-bd4b-456a-8bdb-6f8e5bc9a44f
+- device_id=android-6debd32806349233
+2020-05-24 20:20:19,217 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 20:20:24,773 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 20:20:45,659 - INFO - Photo '(12).jpg' is uploaded.
+2020-05-24 20:51:05,716 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=23231e20-c9bc-4930-8ab4-b2425cd2136f
+- device_id=android-6debd32806349233
+2020-05-24 20:51:05,717 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 20:51:11,849 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 20:51:33,521 - INFO - Photo '(120).jpg' is uploaded.
+2020-05-24 21:21:53,581 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=da51f693-8db9-4335-935d-5722ca3b20d6
+- device_id=android-6debd32806349233
+2020-05-24 21:21:53,582 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 21:21:59,999 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 21:22:21,194 - INFO - Photo '(121).jpg' is uploaded.
+2020-05-24 21:52:41,288 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=6b70c08f-d738-454c-86fd-961b04818d15
+- device_id=android-6debd32806349233
+2020-05-24 21:52:41,289 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 21:52:46,286 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 21:53:07,562 - INFO - Photo '(122).jpg' is uploaded.
+2020-05-24 22:23:27,626 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=9829556b-2a20-4de0-958d-b710ce222743
+- device_id=android-6debd32806349233
+2020-05-24 22:23:27,627 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 22:23:34,070 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 22:23:54,303 - INFO - Photo '(123).jpg' is uploaded.
+2020-05-24 22:54:14,388 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=6fdabf8f-120f-4857-9c76-aca3585cc917
+- device_id=android-6debd32806349233
+2020-05-24 22:54:14,391 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 22:54:20,454 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 22:54:40,424 - INFO - Photo '(124).jpg' is uploaded.
+2020-05-24 23:25:00,478 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=1e947324-e0e5-4f39-a109-89f4929b4902
+- device_id=android-6debd32806349233
+2020-05-24 23:25:00,478 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 23:25:09,056 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 23:25:30,044 - INFO - Photo '(125).jpg' is uploaded.
+2020-05-24 23:55:50,158 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=945cc867-d6cc-4a77-a324-80afc12037d2
+- device_id=android-6debd32806349233
+2020-05-24 23:55:50,158 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-24 23:55:56,480 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-24 23:56:19,042 - INFO - Photo '(126).jpg' is uploaded.
+2020-05-25 00:26:39,106 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=0044791a-ac92-425d-9990-e67108185357
+- device_id=android-6debd32806349233
+2020-05-25 00:26:39,107 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-25 00:26:44,808 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-25 00:27:06,000 - INFO - Photo '(127).jpg' is uploaded.
+2020-05-25 00:57:26,057 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=0c11b079-5719-4977-a4f1-3ad524d0ece9
+- device_id=android-6debd32806349233
+2020-05-25 00:57:26,060 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-25 00:57:32,885 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-25 00:57:54,015 - INFO - Photo '(128).jpg' is uploaded.
+2020-05-25 01:28:14,067 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=d48b2ebb-132d-469e-8744-cb4899acdb21
+- device_id=android-6debd32806349233
+2020-05-25 01:28:14,079 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-25 01:28:20,012 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-25 01:28:41,346 - INFO - Photo '(129).jpg' is uploaded.
+2020-05-25 09:22:04,916 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=573cbff9-2e4a-452f-9f58-c24de0076fc1
+- device_id=android-6debd32806349233
+2020-05-25 09:22:04,940 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-25 09:22:11,608 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-25 09:22:32,738 - INFO - Photo '(13).jpg' is uploaded.
+2020-05-25 09:52:55,936 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=6db4b621-dda1-4e13-a67d-c90d527a8718
+- device_id=android-6debd32806349233
+2020-05-25 09:52:55,938 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-25 09:53:01,397 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-25 09:53:22,908 - INFO - Photo '(130).jpg' is uploaded.
+2020-05-25 10:23:43,048 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=1331da92-641f-4aef-b9c2-f0beec183c8e
+- device_id=android-6debd32806349233
+2020-05-25 10:23:43,050 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-25 10:23:48,076 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-25 10:24:10,394 - INFO - Photo '(131).jpg' is uploaded.
+2020-05-25 10:57:47,779 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=c502e5e6-8f28-464d-9452-483a706fc69b
+- device_id=android-6debd32806349233
+2020-05-25 10:57:47,782 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-25 10:57:53,971 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-25 10:58:15,347 - INFO - Photo '(132).jpg' is uploaded.
+2020-05-25 11:28:35,412 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=b9eb4a7a-ee0d-4b43-9678-94812221ac94
+- device_id=android-6debd32806349233
+2020-05-25 11:28:35,462 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-25 11:28:42,081 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-25 11:29:04,723 - INFO - Photo '(133).jpg' is uploaded.
+2020-05-25 11:59:24,775 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=6f91f73c-8f1b-41f0-9a74-448ff6f94ea2
+- device_id=android-6debd32806349233
+2020-05-25 11:59:24,777 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-25 11:59:30,728 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-25 11:59:53,122 - INFO - Photo '(134).jpg' is uploaded.
+2020-05-25 12:30:13,180 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=b6157014-3220-4dad-9437-1fe9afb1770a
+- device_id=android-6debd32806349233
+2020-05-25 12:30:13,181 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-25 12:30:18,842 - INFO - Logged-in successfully as 'awazcafe'!
+2020-05-25 12:30:41,863 - INFO - Photo '(135).jpg' is uploaded.
+2020-05-26 01:43:03,936 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=f6446707-7f2d-4be0-9bae-0646e22b5e8d
+- device_id=android-6debd32806349233
+2020-05-26 01:43:03,936 - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-26 01:43:17,385 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/feed/timeline/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AEF8EC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:17,413 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/feed/reels_tray/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AE9EDC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:17,421 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/direct_v2/ranked_recipients/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AE9EA88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:17,425 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/direct_v2/ranked_recipients/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AE69388>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:17,429 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/direct_v2/inbox/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AEF8308>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:17,433 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/direct_v2/get_presence/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AECDD08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:17,433 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/news/inbox (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AEF8C08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:17,437 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/users/profile_notice/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AE9EBC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:17,441 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/discover/explore/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AE64408>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:17,493 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/qe/sync/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AEED4C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:17,801 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/qe/sync/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AEED6C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:17,805 - INFO - Login flow failed, the cookie is broken. Relogin again.
+2020-05-26 01:43:17,829 - INFO - Recovery from awazcafe_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 105.0.0.18.119 Android (28/9.0; 420dpi; 1080x2260; OnePlus; GM1903; OnePlus7; qcom; en_US)
+- phone_id=a6a96050-142d-4d6e-b278-89b8d0c5441f
+- uuid=f5277181-3326-4ee1-9142-fb0fd4d90def
+- client_session_id=b3957101-ff43-4221-999e-76660f4c1767
+- device_id=android-6debd32806349233
+2020-05-26 01:43:17,897 - INFO - PRE-LOGIN FLOW!... 
+2020-05-26 01:43:18,037 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/accounts/read_msisdn_header/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AE9EBC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:18,041 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/launcher/sync/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AE95E48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:18,045 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/qe/sync/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AE95788>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:18,049 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/attribution/log_attribution/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AE95888>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:18,117 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/accounts/contact_point_prefill/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AE958C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:18,153 - WARNING - HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/accounts/login/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002253AEF8DC8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-05-26 01:43:18,153 - INFO - Username or password is incorrect.
+2020-05-26 01:43:30,678 - INFO - Total requests: 454
+2020-05-26 01:43:30,682 - INFO - Total requests: 454
+2020-05-26 01:43:30,682 - INFO - Total requests: 454
+2020-05-26 01:43:30,682 - INFO - Total requests: 454
+2020-05-26 01:43:30,682 - INFO - Total requests: 454
+2020-05-26 01:43:30,686 - INFO - Total requests: 454
+2020-05-26 01:43:30,686 - INFO - Total requests: 454
+2020-05-26 01:43:30,686 - INFO - Total requests: 454
+2020-05-26 01:43:30,686 - INFO - Total requests: 454
+2020-05-26 01:43:30,690 - INFO - Total requests: 454
+2020-05-26 01:43:30,690 - INFO - Total requests: 454
+2020-05-26 01:43:30,690 - INFO - Total requests: 454
+2020-05-26 01:43:30,694 - INFO - Total requests: 454
+2020-05-26 01:43:30,694 - INFO - Total requests: 454
+2020-05-26 01:43:30,694 - INFO - Total requests: 454
+2020-05-26 01:43:30,698 - INFO - Total requests: 454
+2020-05-26 01:43:30,698 - INFO - Total requests: 454
+2020-05-26 01:43:30,698 - INFO - Total requests: 454
+2020-05-26 01:43:30,698 - INFO - Total requests: 454
+2020-05-26 01:43:30,702 - INFO - Total requests: 454
+2020-05-26 01:43:30,702 - INFO - Total requests: 454
+2020-05-26 01:43:30,702 - INFO - Total requests: 454
+2020-05-26 01:43:30,702 - INFO - Total requests: 454
+2020-05-26 01:43:30,706 - INFO - Total requests: 454
+2020-05-26 01:43:30,706 - INFO - Total requests: 454
+2020-05-26 01:43:30,706 - INFO - Total requests: 454
+2020-05-26 01:43:30,706 - INFO - Total requests: 454
+2020-05-26 01:43:30,710 - INFO - Total requests: 454
+2020-05-26 01:43:30,710 - INFO - Total requests: 454
+2020-05-26 01:43:30,710 - INFO - Total requests: 454
+2020-05-26 01:43:30,714 - INFO - Total requests: 454
+2020-05-26 01:43:30,714 - INFO - Total requests: 454
+2020-05-26 01:43:30,714 - INFO - Total requests: 454
+2020-05-26 01:43:30,718 - INFO - Total requests: 454
+2020-05-26 01:43:30,718 - INFO - Total requests: 454
+2020-05-26 01:43:30,718 - INFO - Total requests: 454
+2020-05-26 01:43:30,718 - INFO - Total requests: 454
